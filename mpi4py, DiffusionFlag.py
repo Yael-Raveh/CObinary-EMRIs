@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 28 17:54:50 2019
-
-@author: yael
-"""
-
 import math,numpy,random
 import datetime
 from mpi4py import MPI
