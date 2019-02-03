@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 16 16:27:25 2018
-
-@author: yael
-"""
 import numpy,math
 from matplotlib import pyplot as plt
 runs = 100               # no. of simulations
