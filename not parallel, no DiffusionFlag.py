@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec  6 19:28:46 2018
-
-@author: yael
-"""
 import math,numpy,random
 import datetime
 print(datetime.datetime.now())
